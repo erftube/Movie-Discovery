@@ -1,4 +1,3 @@
-```markdown
 # Movie Discovery Application
 
 This project is a modern web application designed for browsing and searching through a vast database of movies. It utilizes high-performance frontend technologies to provide a smooth user experience, featuring real-time search and dynamic data fetching.
@@ -56,4 +55,3 @@ The current production build uses minified logic for hooks and component renderi
 ## License
 
 This project is open-source and intended for educational and portfolio use.
-```
